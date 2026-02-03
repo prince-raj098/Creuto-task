@@ -34,25 +34,6 @@ The focus of this project is **UI accuracy, component reusability, clean folder 
 
 ---
 
-## 📂 Project Structure
-src/
-├─ assets/
-│ └─ badges/
-│
-├─ components/
-│ ├─ InputField.jsx
-│ ├─ Divider.jsx
-│ ├─ SocialLogin.jsx
-│ ├─ SignupBox.jsx
-│ ├─ FooterLinks.jsx
-│ └─ AppDownloadSection.jsx
-│
-├─ pages/
-│ └─ LoginPage.jsx
-│
-├─ App.jsx
-├─ App.css
-└─ index.css
 
 
 ---
@@ -72,15 +53,15 @@ src/
 ```bash
 git clone <your-repo-link>
 cd instagram-login
-
-2. Install Dependencies
+---
+### 2. Install Dependencies
 npm install
-
-3. Run Development Server
+---
+### 3. Run Development Server
 npm run dev
+---
 
-
-Project runs on:
+###Project runs on:
 ---
 ##http://localhost:5173
 
