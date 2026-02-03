@@ -1,0 +1,25 @@
+.box {
+  width: 350px;
+  max-width: 100%;
+  background: #fff;
+  border: 1px solid #dbdbdb;
+  border-radius: 8px;
+  padding: 18px 0;
+  text-align: center;
+}
+
+.text {
+  margin: 0;
+  font-size: 14px;
+  color: #262626;
+}
+
+.link {
+  color: #0095f6;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

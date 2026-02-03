@@ -1,0 +1,25 @@
+.section {
+  width: 350px;
+  max-width: 100%;
+  text-align: center;
+  margin-top: 18px;
+}
+
+.title {
+  margin: 0 0 12px;
+  font-size: 14px;
+  color: #262626;
+}
+
+.badges {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.badge {
+  height: 40px;
+  width: auto;
+  display: block;
+}

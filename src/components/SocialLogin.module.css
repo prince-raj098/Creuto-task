@@ -1,0 +1,21 @@
+.link {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #385185;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 6px 0;
+}
+
+.link:hover {
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.icon {
+  font-size: 18px;
+}
