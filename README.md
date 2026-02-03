@@ -47,26 +47,8 @@ The focus of this project is **UI accuracy, component reusability, clean folder 
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1. Clone Repository
-```bash
-git clone <your-repo-link>
-cd instagram-login
----
-### 2. Install Dependencies
-npm install
----
-### 3. Run Development Server
-npm run dev
----
-
-###Project runs on:
----
-##http://localhost:5173
-
-
-👤 Author
+##👤 Author
 
 Prince Raj
 
